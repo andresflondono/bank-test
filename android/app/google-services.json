@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889714115966",
+    "project_id": "bank-todo",
+    "storage_bucket": "bank-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889714115966:android:ec0459e6bf95994e091f2f",
+        "android_client_info": {
+          "package_name": "com.example.bank_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889714115966-7ongt2j310s6ri43g11o9a6ut49bqmih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgQg16ylxfoL2kVaA3fYq2UZDDKjfJg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889714115966-7ongt2j310s6ri43g11o9a6ut49bqmih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
